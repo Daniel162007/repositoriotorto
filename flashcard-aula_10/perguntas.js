@@ -1,8 +1,7 @@
 criaCartao(
     'Saiba controlar o seu elixir?',
-    'Todas as cartas possuem certo custo, como também demora algum tempo para que o elixir possa se regenerar. Por isso, para ter uma batalha de sucesso no Clash Royale, é fundamental saber controlá-lo. Para isso, basta atacar seu oponente com cartas que custem uma menor quantidade de elixir do que as utilizadas por ele. Assim, o seu durará mais tempo e você estará mais propenso a derrotar o oponent.
+    'Todas as cartas possuem certo custo, como também demora algum tempo para que o elixir possa se regenerar. Por isso, para ter uma batalha de sucesso no Clash Royale, é fundamental saber controlá-lo. Para isso, basta atacar seu oponente com cartas que custem uma menor quantidade de elixir do que as utilizadas por ele. Assim, o seu durará mais tempo e você estará mais propenso a derrotar o oponent.',
 
-    É fundamental entender esta lógica para poder vencer as partidas, pois, uma vez que seu elixir se esgota, você terá que somente observar enquanto seu oponente lhe ataca — o que não parece muito divertido, certo?.'
 )
 
 criaCartao(
@@ -17,6 +16,6 @@ criaCartao(
 )
 
 criaCartao(
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Evite decisões impulsivas?',
+    'Caso esteja ganhando, não erre por excesso de autoconfiança. Mantenha-se atento e a par de sua estratégia. O mesmo vale para os casos nos quais você esteja perdendo. Caso seja necessário, dê uma pausa, respire e volte com maior atenção'
 )
